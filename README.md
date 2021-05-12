@@ -1,4 +1,4 @@
-# lister
+# Listify
 
 A new Flutter application.
 
